@@ -1,1 +1,1 @@
-Swift Market is an e-commerce platform built with React, offering customers a user-friendly interface to easily purchase travel-related products. The platform includes a comprehensive shopping cart system, enabling customers to manage their purchases. 
+Swift Market is an e-commerce platform built with React, offering customers a user-friendly interface to easily purchase travel-related products. The platform includes a shopping cart system, enabling customers to manage their purchases. 
